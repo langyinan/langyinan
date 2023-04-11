@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @langyinan
+- 👋 Hi, I’m @langyinan, Software Engineer @ AWS
 - 👀 I’m interested in Music and Video Games! 
 - 🌱 I’m currently learning Python / Web Development
 - The stacks that I'm using: React / Node.js / Flask
